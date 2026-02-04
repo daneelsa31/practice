@@ -4,6 +4,9 @@ void main() {
   print('Welcome to my Dart application!');
   print('Welcome to my Dart application!');
   print('Welcome to my Dart application!');
+
+  print('World!');
+  print('Hello!');
   
   var user = User(name: 'Alex', age: 25);
   user.greet();
