@@ -1,6 +1,7 @@
 // main.dart
 void main() {
   print('Welcome to my Dart application!');
+  print('Welcome to my Dart application!');
 
   var user = User(name: 'Alex', age: 25);
   user.greet();
